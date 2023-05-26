@@ -1,2 +1,4 @@
-# alx-pre_course
-I'm now a ALX Student, this is my first repository as a full-stack engineer
+My first readme
+root@8095c830e007:alx_pre_course#git config --global user.emain "amandadlakude@gmail.com"
+^
+My first readme
